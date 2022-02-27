@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb4b4cad-4d00-412b-99a2-7ba094c9ac09": {
+      "ProjectGuid": "bb4b4cad-4d00-412b-99a2-7ba094c9ac09",
+      "DisplayName": "Cars Sales system",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
